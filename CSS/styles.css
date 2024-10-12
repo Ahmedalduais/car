@@ -1,0 +1,38 @@
+body {
+     font-family: arial,
+      sans-serif;
+       Margin: 0;
+        padding: 0;
+         Background-Color: #F4F4F4;
+         }
+          header {
+              background: #35424A;
+               color: #ffffff;
+                padding: 10px 0; 
+                text-align: center;
+                 } 
+                 nav ul { 
+                   
+                  list-style: none;
+                  padding: 0;
+                 }
+                 nav ul li 
+             { display: inline;
+              Margin: 0 15px; 
+             } 
+             nav ul li a {
+             color: #ffffff;
+             text-decoration: none;
+             } 
+            Main {
+             padding: 20px;
+             }
+          Footer { 
+         text-align: center;
+         padding: 10px 0;
+         Background: #35424A;
+      color: #ffffff;
+      Position: Relative;
+      bottom: 0;
+              Width: 100%;
+ }
